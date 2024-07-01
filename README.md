@@ -67,7 +67,7 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 ### Plantilla LandingPage
 - **Tecnologías:** Nuxt3, Tailwind
-- **Descripción:** Plantilla de página de aterrizaje disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pa...).
+- **Descripción:** Plantilla de página de aterrizaje disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pages.dev/).
 
 ### Prueba Next.js
 - **Tecnologías:** Next.js (React), Tailwind
