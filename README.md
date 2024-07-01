@@ -36,7 +36,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-%2327c53f.svg?style=for-the-badge&logo=shopify&logoColor=white)
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelAlexander&layout=compact&langs_count=6&theme=blue-green&card_width=800)](https://github.com/NatanaelAlexander)
+
