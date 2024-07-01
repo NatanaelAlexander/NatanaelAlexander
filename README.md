@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Natanael 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=29cf37&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+GitHub!;Mi+nombre+es+Natanael+Alexander;Soy+Desarrollador+Frond-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=29cf37&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+GitHub!;Mi+nombre+es+Natanael+Alexander;Soy+Desarrollador+Front-End)](https://git.io/typing-svg)
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
@@ -14,7 +14,7 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 <br>
 
-# 💻 Frond Stack:
+# 💻 Front Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
