@@ -6,7 +6,11 @@
 
 <br>
 
-Soy desarrollador web con experiencia en una variedad de tecnologías. Después de terminar mis estudios, comencé trabajando con Angular y WordPress. Posteriormente, me especialicé en el desarrollo frontend, donde consolidé mis habilidades en Vue y Nuxt para desarrollar aplicaciones complejas y optimizadas. Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis capacidades técnicas. A lo largo de mi carrera, he estado comprometido con el aprendizaje continuo y la mejora de mis habilidades para ofrecer soluciones innovadoras.
+# 💫 About Me:
+Soy desarrollador web con experiencia en una variedad de tecnologías. Después de terminar mis estudios, comencé trabajando con Angular y WordPress. 
+Posteriormente, me especialicé en el desarrollo frontend, donde consolidé mis habilidades en Vue y Nuxt para desarrollar aplicaciones complejas y optimizadas.
+
+Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis capacidades técnicas. A lo largo de mi carrera, he estado comprometido con el aprendizaje continuo y la mejora de mis habilidades para ofrecer soluciones innovadoras.
 
 <br>
 
