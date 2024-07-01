@@ -53,7 +53,7 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 ## Algunos Proyectos
 
-### Journal Pages
+### App Journal
 - **Tecnologías:** Vue3, Axios, Firebase
 - **Descripción:** Proyecto realizado anteriormente enfocado en [journal.pages.dev](https://journal.pages.dev/#/).
 
@@ -65,14 +65,14 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 - **Tecnologías:** Vue3, Nuxt3, Tailwind, ResendJs, Nitro
 - **Descripción:** Sitio web de servicios profesionales en [nyasociados.com](https://nyasociados.com/).
 
-### Plantilla LandingPage
+### LandingPage
 - **Tecnologías:** Nuxt3, Tailwind
 - **Descripción:** Plantilla de página de aterrizaje disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pages.dev/).
 
-### Prueba Next.js
+### LandingPage
 - **Tecnologías:** Next.js (React), Tailwind
 - **Descripción:** Landing utilizando Next.js en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
 
-### Coffee Natanael
+### LandingPage
 - **Tecnologías:** HTML, CSS, JavaScript (Vanilla)
 - **Descripción:** Landing page desarrollada solo con HTML, CSS y JS en [coffeenatanael.netlify.app](https://coffeenatanael.netlify.app/).
