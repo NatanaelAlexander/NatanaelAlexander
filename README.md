@@ -51,7 +51,7 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 <br>
 
-## Mis Proyectos Destacados
+## Algunos Proyectos
 
 ### Journal Pages
 - **Tecnologías:** Vue3, Axios, Firebase
