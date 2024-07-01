@@ -1,5 +1,7 @@
 <h1 align="center">Hola, soy Natanael 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Natanael+Alexander;I'm+a+Freelancer+Software+Engineer)](https://git.io/typing-svg)
+
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 <br>
