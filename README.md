@@ -6,7 +6,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelAlexander&layout=compact&langs_count=6&theme=blue-green)](https://github.com/NatanaelAlexander)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelAlexander&layout=compact&langs_count=6&theme=blue-green&card_width=800)](https://github.com/NatanaelAlexander)
