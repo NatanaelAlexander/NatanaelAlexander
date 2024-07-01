@@ -9,6 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelAlexander&layout=compact&langs_count=6&theme=blue-green)](https://github.com/NatanaelAlexander)
 
 
-<div style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelAlexander&layout=compact&langs_count=6&theme=blue-green&card_width=1000" alt="Top Langs" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelAlexander&layout=compact&langs_count=6&theme=blue-green&card_width=800)](https://github.com/NatanaelAlexander)
