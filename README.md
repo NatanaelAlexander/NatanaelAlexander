@@ -71,5 +71,8 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 ### Prueba Next.js
 - **Tecnologías:** Next.js (React), Tailwind
-- **Descripción:** Prueba de proyecto utilizando Next.js en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
+- **Descripción:** Landing utilizando Next.js en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
 
+### Coffee Natanael
+- **Tecnologías:** HTML, CSS, JavaScript (Vanilla)
+- **Descripción:** Landing page desarrollada solo con HTML, CSS y JS en [coffeenatanael.netlify.app](https://coffeenatanael.netlify.app/).
