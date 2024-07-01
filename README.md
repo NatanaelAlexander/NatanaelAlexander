@@ -6,7 +6,7 @@
 
 <br>
 
-# 💫 About Me:
+# 💫 Sobre mí:
 Soy desarrollador web con experiencia en una variedad de tecnologías. Después de terminar mis estudios, comencé trabajando con Angular y WordPress. 
 Posteriormente, me especialicé en el desarrollo frontend, donde consolidé mis habilidades en Vue y Nuxt para desarrollar aplicaciones complejas y optimizadas.
 
