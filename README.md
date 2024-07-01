@@ -49,3 +49,27 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelAlexander&layout=compact&langs_count=6&theme=blue-green&card_width=800)](https://github.com/NatanaelAlexander)
 
+<br>
+
+## Mis Proyectos Destacados
+
+### Journal Pages
+- **Tecnologías:** Vue3, Axios, Firebase
+- **Descripción:** Proyecto realizado anteriormente enfocado en [journal.pages.dev](https://journal.pages.dev/#/).
+
+### Pokemon Beta
+- **Tecnologías:** Vue3, Axios, Bootstrap
+- **Descripción:** Proyecto de demostración disponible en [pokemonbeta1.netlify.app](https://pokemonbeta1.netlify.app/).
+
+### NyAsociados
+- **Tecnologías:** Vue3, Nuxt3, Tailwind, ResendJs, Nitro
+- **Descripción:** Sitio web de servicios profesionales en [nyasociados.com](https://nyasociados.com/).
+
+### Plantilla LandingPage
+- **Tecnologías:** Nuxt3, Tailwind
+- **Descripción:** Plantilla de página de aterrizaje disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pa...).
+
+### Prueba Next.js
+- **Tecnologías:** Next.js (React), Tailwind
+- **Descripción:** Prueba de proyecto utilizando Next.js en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
+
