@@ -6,6 +6,10 @@
 
 <br>
 
+Soy desarrollador web con experiencia en una variedad de tecnologías. Después de terminar mis estudios, comencé trabajando con Angular y WordPress. Posteriormente, me especialicé en el desarrollo frontend, donde consolidé mis habilidades en Vue y Nuxt para desarrollar aplicaciones complejas y optimizadas. Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis capacidades técnicas. A lo largo de mi carrera, he estado comprometido con el aprendizaje continuo y la mejora de mis habilidades para ofrecer soluciones innovadoras.
+
+<br>
+
 # 💻 Frond Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
