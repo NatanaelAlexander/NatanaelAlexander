@@ -53,7 +53,7 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 ## Algunos Proyectos
 
-### App Inventario
+### App Inventario (en desarrollo)
 - **Tecnologías:** Next14, Axios, Turso(Sql lite), Jwt, tailwind, Nodejs,etc...
 - **Descripción:** Gestor de inventario con roles, rutas protegidas, etc... Demostración: [https://gestionroles.pages.dev/](https://gestionroles.pages.dev/).
 
