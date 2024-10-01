@@ -71,12 +71,12 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 ### LandingPage
 - **Tecnologías:** Nuxt3, Tailwind
-- **Descripción:** Plantilla de página de aterrizaje disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pages.dev/).
+- **Descripción:** Demo de página de aterrizaje disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pages.dev/).
 
 ### LandingPage
 - **Tecnologías:** Next.js (React), Tailwind
-- **Descripción:** Landing utilizando Next.js en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
+- **Descripción:** Demo utilizando Next.js en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
 
 ### LandingPage
 - **Tecnologías:** HTML, CSS, JavaScript (Vanilla)
-- **Descripción:** Landing page desarrollada solo con HTML, CSS y JS en [coffeenatanael.netlify.app](https://coffeenatanael.netlify.app/).
+- **Descripción:** Demo Landing page desarrollada solo con HTML, CSS y JS en [coffeenatanael.netlify.app](https://coffeenatanael.netlify.app/).
