@@ -59,7 +59,7 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 ### App Journal
 - **Tecnologías:** Vue3, Axios, Firebase
-- **Descripción:** Proyecto realizado anteriormente enfocado en [journal.pages.dev](https://journal.pages.dev/#/).
+- **Descripción:** Proyecto realizado anteriormente enfocado en [journal.pages.dev](https://journal.pages.dev/#/daybook).
 
 ### Chat bot IA
 - **Tecnologías:** Next14, Tailwind, WebLLM
