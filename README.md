@@ -79,4 +79,4 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 
 ### PrimeConsultora - LandingPage
 - **Tecnologías:** Next14, tailwind, resend, Node
-- **Descripción:** Demo Landing page desarrollada solo con HTML, CSS y JS en [primeconsultora.cl](https://primeconsultora.cl/).
+- **Descripción:** Sitio web de servicios profesionales en [primeconsultora.cl](https://primeconsultora.cl/).
