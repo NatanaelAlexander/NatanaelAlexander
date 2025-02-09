@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=29cf37&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+GitHub!;Mi+nombre+es+Natanael+Alexander;Soy+Desarrollador+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=29cf37&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+GitHub!;Mi+nombre+es+Natanael+Alexander;Soy+Desarrollador+Full-Stack)](https://git.io/typing-svg)
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
@@ -61,9 +61,9 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 - **Tecnologías:** Vue3, Axios, Firebase
 - **Descripción:** Proyecto realizado anteriormente enfocado en [journal.pages.dev](https://journal.pages.dev/#/).
 
-### Pokemon Beta
-- **Tecnologías:** Vue3, Axios, Bootstrap
-- **Descripción:** Proyecto de demostración disponible en [pokemonbeta1.netlify.app](https://pokemonbeta1.netlify.app/).
+### Chat bot IA
+- **Tecnologías:** Next14, Tailwind, WebLLM
+- **Descripción:** Chat IA se instala, la primera instancia demora, disponible en [natanael-chat-bot-ia.vercel.app](https://natanael-chat-bot-ia.vercel.app/).
 
 ### NyAsociados
 - **Tecnologías:** Vue3, Nuxt3, Tailwind, ResendJs, Nitro
