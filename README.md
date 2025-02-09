@@ -62,7 +62,7 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 - **Descripción:** Proyecto realizado anteriormente enfocado en [journal.pages.dev](https://journal.pages.dev/#/daybook).
 
 ### Chat bot IA
-- **Tecnologías:** Next14, Tailwind, WebLLM
+- **Tecnologías:** Next14, Tailwind, WebLLM, Node
 - **Descripción:** Chat IA se instala, la primera instancia demora, disponible en [natanael-chat-bot-ia.vercel.app](https://natanael-chat-bot-ia.vercel.app/).
 
 ### NyAsociados - LandingPage
