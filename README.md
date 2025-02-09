@@ -5,10 +5,9 @@
 <br>
 
 # 💫 Sobre mí:
-Soy desarrollador web con experiencia en una variedad de tecnologías. Después de terminar mis estudios, comencé trabajando con Angular y WordPress. 
-Posteriormente, me especialicé en el desarrollo frontend, donde consolidé mis habilidades en Vue y Nuxt para desarrollar aplicaciones complejas y optimizadas.
+Desarrollador web Full Stack con experiencia en la creación de aplicaciones personalizadas. Me especializo en frontend con Vue, Nuxt y Next.js, y en backend con Node.js, enfocándome en APIs REST, autenticación JWT y bases de datos SQL/MongoDB.
 
-Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis capacidades técnicas. A lo largo de mi carrera, he estado comprometido con el aprendizaje continuo y la mejora de mis habilidades para ofrecer soluciones innovadoras.
+A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluciones escalables y modernas, siempre buscando aprender y adoptar nuevas tecnologías para ofrecer productos eficientes y de alta calidad.
 
 <br>
 
