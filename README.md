@@ -62,7 +62,7 @@ A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluc
 
 ### Chat bot IA
 - **Tecnologías:** Next14, Tailwind, WebLLM, Node
-- **Descripción:** Chat IA se instala, la primera instancia demora, disponible en [natanael-chat-bot-ia.vercel.app](https://natanael-chat-bot-ia.vercel.app/).
+- **Descripción:** Chat bot IA web, disponible en [natanael-chat-bot-ia.vercel.app](https://natanael-chat-bot-ia.vercel.app/).
 
 ### NyAsociados - LandingPage
 - **Tecnologías:** Vue3, Nuxt3, Tailwind, ResendJs, Nitro
