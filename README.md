@@ -65,18 +65,18 @@ Actualmente, estoy explorando y aprendiendo Next.js para expandir aún más mis 
 - **Tecnologías:** Next14, Tailwind, WebLLM
 - **Descripción:** Chat IA se instala, la primera instancia demora, disponible en [natanael-chat-bot-ia.vercel.app](https://natanael-chat-bot-ia.vercel.app/).
 
-### NyAsociados
+### NyAsociados - LandingPage
 - **Tecnologías:** Vue3, Nuxt3, Tailwind, ResendJs, Nitro
 - **Descripción:** Sitio web de servicios profesionales en [nyasociados.com](https://nyasociados.com/).
 
-### LandingPage
+### Servicio Tecnico - LandingPage
 - **Tecnologías:** Nuxt3, Tailwind
-- **Descripción:** Demo de página de aterrizaje disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pages.dev/).
+- **Descripción:** Plantilla de página para proyectos disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pages.dev/).
 
-### LandingPage
-- **Tecnologías:** Next.js (React), Tailwind
-- **Descripción:** Demo utilizando Next.js en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
+### Paneles Solares - LandingPage
+- **Tecnologías:** Next14, Tailwind
+- **Descripción:** Plantilla de página para proyectos disponible en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
 
-### LandingPage
-- **Tecnologías:** HTML, CSS, JavaScript (Vanilla)
-- **Descripción:** Demo Landing page desarrollada solo con HTML, CSS y JS en [coffeenatanael.netlify.app](https://coffeenatanael.netlify.app/).
+### PrimeConsultora - LandingPage
+- **Tecnologías:** Next14, tailwind, resend, Node
+- **Descripción:** Demo Landing page desarrollada solo con HTML, CSS y JS en [primeconsultora.cl](https://primeconsultora.cl/).
