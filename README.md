@@ -61,8 +61,8 @@ A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluc
 - **Descripción:** Proyecto realizado anteriormente enfocado en [journal.pages.dev](https://journal.pages.dev/#/daybook).
 
 ### Chat bot IA
-- **Tecnologías:** Next14, Tailwind, WebLLM, Node
-- **Descripción:** Chat bot IA web, disponible en [natanael-chat-bot-ia.vercel.app](https://natanael-chat-bot-ia.vercel.app/) o hacer pruebas con su versión + base de datos SQlite [chatbotia-bd.vercel.app](https://chatbotia-bd.vercel.app).
+- **Tecnologías:** Next14, Tailwind, WebLLM, Node, jwt, Prisma, Axios
+- **Descripción:** Chat bot IA web, disponible en [natanael-chat-bot-ia.vercel.app](https://natanael-chat-bot-ia.vercel.app/) o su versión + BD SQlite [chatbotia-bd.vercel.app](https://chatbotia-bd.vercel.app).
 
 ### NyAsociados - LandingPage
 - **Tecnologías:** Vue3, Nuxt3, Tailwind, ResendJs, Nitro
