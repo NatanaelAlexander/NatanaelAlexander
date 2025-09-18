@@ -44,12 +44,6 @@ A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluc
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-%2327c53f.svg?style=for-the-badge&logo=shopify&logoColor=white)
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelAlexander&layout=compact&langs_count=6&theme=blue-green&card_width=800)](https://github.com/NatanaelAlexander)
-
-<br>
-
 ## Algunos Proyectos
 
 ### App Inventario (en desarrollo)
