@@ -46,30 +46,24 @@ A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluc
 
 ## Algunos Proyectos
 
-### App Inventario (en desarrollo)
-- **Tecnologías:** Next14, Axios, Turso(Sql lite), Jwt, tailwind, Nodejs,etc...
-- **Descripción:** Gestor de inventario con roles, rutas protegidas, etc... Demostración: [https://gestionroles.pages.dev/](https://gestionroles.pages.dev/).
+### Corredora propiedades
+- **Tecnologías:** Nuxt4, typescript, Sqlite, NodeJs, Tailwind4 [demo](https://edificio-alcazar.pages.dev/).
 
-### App Journal
-- **Tecnologías:** Vue3, Axios, Firebase
-- **Descripción:** Proyecto realizado anteriormente enfocado en [journal.pages.dev](https://journal.pages.dev/#/daybook).
+### Detector de caras bot IA
+- **Tecnologías:** React19, Tailwind4, opencv-js, TypeScript [demo](https://opencv-faces.pages.dev/)
 
 ### Chat bot IA
-- **Tecnologías:** Next14, Tailwind, WebLLM, Node, jwt, Prisma, Axios
-- **Descripción:** Chat bot IA web, disponible en [natanael-chat-bot-ia.vercel.app](https://natanael-chat-bot-ia.vercel.app/) o su versión + BD SQlite [chatbotia-bd.vercel.app](https://chatbotia-bd.vercel.app).
+- **Tecnologías:** Next14, Tailwind, WebLLM, Node, jwt, Prisma, Axios [demo](https://natanael-chat-bot-ia.vercel.app/) o su versión + BD SQlite [demo](https://chatbotia-bd.vercel.app).
+  
+### App Inventario (en desarrollo)
+- **Tecnologías:** Next14, Axios, Turso(Sql lite), Jwt, tailwind, Nodejs,etc... [demo](https://gestionroles.pages.dev/).
 
-### NyAsociados - LandingPage
-- **Tecnologías:** Vue3, Nuxt3, Tailwind, ResendJs, Nitro
-- **Descripción:** Sitio web de servicios profesionales en [nyasociados.com](https://nyasociados.com/).
+### App Journal
+- **Tecnologías:** Vue3, Axios, Firebase [demo](https://journal.pages.dev/#/daybook).
 
-### Servicio Tecnico - LandingPage
-- **Tecnologías:** Nuxt3, Tailwind
-- **Descripción:** Plantilla de página para proyectos disponible en [plantillaserviciotecnico.pa...](https://plantillaserviciotecnico.pages.dev/).
-
-### Paneles Solares - LandingPage
-- **Tecnologías:** Next14, Tailwind
-- **Descripción:** Plantilla de página para proyectos disponible en [demo](https://pruebanext.pages.dev/).
-
-### PrimeConsultora - LandingPage
-- **Tecnologías:** Next14, tailwind, resend, Node
-- **Descripción:** Sitio web de servicios profesionales en [primeconsultora.cl](https://primeconsultora.cl/).
+## LandingsPage
+- **Tecnologías:** Vue3, Nuxt3, Tailwind, resend, Node [demo](https://pruebanuxtt.pages.dev/).
+- **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://hyn-arquitectura-y-construccion.pages.dev/).
+- **Tecnologías:** Nuxt3, Tailwind [demo](https://plantillaserviciotecnico.pages.dev/).
+- **Tecnologías:** Next14, Tailwind [demo](https://pruebanext.pages.dev/).
+- **Tecnologías:** Next14, tailwind, resend, Node [demo](https://primeconsultora.cl/).
