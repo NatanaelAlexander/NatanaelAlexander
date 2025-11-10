@@ -68,7 +68,7 @@ A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluc
 
 ### Paneles Solares - LandingPage
 - **Tecnologías:** Next14, Tailwind
-- **Descripción:** Plantilla de página para proyectos disponible en [pruebanext.pages.dev](https://pruebanext.pages.dev/).
+- **Descripción:** Plantilla de página para proyectos disponible en [demo](https://pruebanext.pages.dev/).
 
 ### PrimeConsultora - LandingPage
 - **Tecnologías:** Next14, tailwind, resend, Node
