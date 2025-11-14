@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=29cf37&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+GitHub!;Mi+nombre+es+Natanael+Alexander;Soy+Desarrollador+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=29cf37&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+GitHub!;Natanael+Alexander;Desarrollador+Full-Stack)](https://git.io/typing-svg)
 
 <br>
 
