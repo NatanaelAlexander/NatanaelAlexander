@@ -57,6 +57,7 @@ A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluc
 ## LandingsPage
 - **Tecnologías:** Vue3, Nuxt3, Tailwind, resend, Node [demo](https://pruebanuxtt.pages.dev/).
 - **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://hyn-arquitectura-y-construccion.pages.dev/).
+- **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://primeoffices.cl/).
 - **Tecnologías:** Nuxt3, Tailwind [demo](https://plantillaserviciotecnico.pages.dev/).
 - **Tecnologías:** Next14, Tailwind [demo](https://pruebanext.pages.dev/).
 - **Tecnologías:** Next14, tailwind, resend, Node [demo](https://primeconsultora.cl/).
