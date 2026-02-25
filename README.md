@@ -47,16 +47,14 @@ A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluc
 
 ### Chat bot IA
 - **Tecnologías:** Next14, Tailwind, WebLLM, Node, jwt, Prisma, Axios [demo](https://natanael-chat-bot-ia.vercel.app/) o su versión + BD SQlite [demo](https://chatbotia-bd.vercel.app).
-  
-### App Inventario (en desarrollo)
-- **Tecnologías:** Next14, Axios, Turso(Sql lite), Jwt, tailwind, Nodejs,etc... [demo](https://gestionroles.pages.dev/).
 
 ### App Journal
 - **Tecnologías:** Vue3, Axios, Firebase [demo](https://journal.pages.dev/#/daybook).
 
-## LandingsPage
+## Algunas LandingsPage
 - **Tecnologías:** Vue3, Nuxt3, Tailwind, resend, Node [demo](https://pruebanuxtt.pages.dev/).
 - **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://hyn-arquitectura-y-construccion.pages.dev/).
+- **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://www.maestranzalosangeles.cl/).
 - **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://primeoffices.cl/).
 - **Tecnologías:** Nuxt3, Tailwind [demo](https://plantillaserviciotecnico.pages.dev/).
 - **Tecnologías:** Next14, Tailwind [demo](https://pruebanext.pages.dev/).
