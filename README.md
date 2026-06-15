@@ -40,20 +40,16 @@ Además del desarrollo de software, suelo involucrarme en el diseño de bases de
 ### Corredora propiedades
 - **Tecnologías:** Nuxt4, typescript, Sqlite, NodeJs, Tailwind4 [demo](https://edificio-alcazar.pages.dev/).
 
-### Detector de caras bot IA
-- **Tecnologías:** React19, Tailwind4, opencv-js, TypeScript [demo](https://opencv-faces.pages.dev/)
-
 ### Chat bot IA
 - **Tecnologías:** Next14, Tailwind, WebLLM, Node, jwt, Prisma, Axios [demo](https://natanael-chat-bot-ia.vercel.app/) o su versión + BD SQlite [demo](https://chatbotia-bd.vercel.app).
 
-### App Journal
-- **Tecnologías:** Vue3, Axios, Firebase [demo](https://journal.pages.dev/#/daybook).
+## Algunas LandingsPage a medida de empresas
+-Minimalista Moderno [demo](https://hyn-arquitectura-y-construccion.pages.dev/).
+-Moderno Aestetic [demo](https://seguros-edificio-alcazar.pages.dev/).
+-LightNight Moderno [demo](https://primeoffices.cl/).
+-Aburrido Moderno [demo](https://primeconsultora.cl/).
+-Aburrido Moderno [demo](https://www.maestranzalosangeles.cl/).
 
-## Algunas LandingsPage
-- **Tecnologías:** Vue3, Nuxt3, Tailwind, resend, Node [demo](https://pruebanuxtt.pages.dev/).
-- **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://hyn-arquitectura-y-construccion.pages.dev/).
-- **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://www.maestranzalosangeles.cl/).
-- **Tecnologías:** Vue3, Nuxt4, Tailwind4, resend, Node [demo](https://primeoffices.cl/).
-- **Tecnologías:** Nuxt3, Tailwind [demo](https://plantillaserviciotecnico.pages.dev/).
-- **Tecnologías:** Next14, Tailwind [demo](https://pruebanext.pages.dev/).
-- **Tecnologías:** Next14, tailwind, resend, Node [demo](https://primeconsultora.cl/).
+### Experiencia
+
+He participado en más de 40 proyectos para empresas de distintos tamaños y rubros, desarrollando desde landing pages corporativas hasta sistemas web personalizados, plataformas SaaS, ERPs, herramientas internas y soluciones a medida.
