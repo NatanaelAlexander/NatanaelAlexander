@@ -3,9 +3,11 @@
 <br>
 
 # 💫 Sobre mí:
-Desarrollador web Full Stack con experiencia en la creación de aplicaciones personalizadas. Me especializo en frontend con Vue, Nuxt y Next.js, y en backend con TS Node.js, enfocándome en APIs REST, autenticación JWT y bases de datos SQL/MongoDB.
+Soy Full Stack Developer y fundador de una empresa de desarrollo de software, donde participo en la planificación, arquitectura y desarrollo de aplicaciones web para clientes de distintos sectores.
 
-A lo largo de mi carrera, he liderado equipos de desarrollo, implementando soluciones escalables y modernas, siempre buscando aprender y adoptar nuevas tecnologías para ofrecer productos eficientes y de alta calidad.
+Actualmente mi trabajo se centra principalmente en el ecosistema JavaScript y TypeScript, desarrollando aplicaciones modernas con Next.js, React, Node.js, NestJS, PostgreSQL, Docker y servicios cloud. Durante los últimos años he participado en proyectos de gestión empresarial, plataformas SaaS, CRMs, ERPs y herramientas internas para organizaciones de Chile, Argentina, España y Estados Unidos.
+
+Además del desarrollo de software, suelo involucrarme en el diseño de bases de datos, definición de requerimientos, despliegue de infraestructura y optimización de procesos de desarrollo.
 
 <br>
 
