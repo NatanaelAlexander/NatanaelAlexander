@@ -5,7 +5,7 @@
 # 💫 Sobre mí:
 Soy Full Stack Developer y fundador de una empresa de desarrollo de software, donde participo en la planificación, arquitectura y desarrollo de aplicaciones web para clientes de distintos sectores.
 
-Actualmente mi trabajo se centra principalmente en el ecosistema JavaScript y TypeScript, desarrollando aplicaciones modernas con Next.js, React, Node.js, NestJS, PostgreSQL, Docker y servicios cloud. Durante los últimos años he participado en proyectos de gestión empresarial, plataformas SaaS, CRMs, ERPs y herramientas internas para organizaciones de Chile, Argentina, España y Estados Unidos.
+Actualmente mi trabajo se centra principalmente en el ecosistema JavaScript y TypeScript, desarrollando aplicaciones modernas con Next.js, React, Node.js, NestJS, PostgreSQL, Docker y servicios cloud. Durante los últimos años he participado en proyectos de gestión empresarial, plataformas SaaS, CRMs, ERPs y herramientas internas para organizaciones de Chile, Argentina, España, Estados Unidos, entre otros.
 
 Además del desarrollo de software, suelo involucrarme en el diseño de bases de datos, definición de requerimientos, despliegue de infraestructura y optimización de procesos de desarrollo.
 
