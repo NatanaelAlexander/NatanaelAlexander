@@ -44,16 +44,23 @@ Además del desarrollo de software, suelo involucrarme en el diseño de bases de
 ## Algunos Proyectos
 
 ### Corredora propiedades
-- **Tecnologías:** Nuxt4, typescript, Sqlite, NodeJs, Tailwind4 [demo](https://edificio-alcazar.pages.dev/).
+- **Tecnologías:** Nuxt4, typescript, Sqlite, NodeJs, Tailwind4 [demo](https://boulevard-alcazar.cl/).
+
+### Arquitectura
+- **Tecnologías:** Nuxt4, typescript, Sqlite, NodeJs, Tailwind4 [demo](https://jh-arq.cl/).
+
+### Contabilidad
+- **Tecnologías:** Nextjs, Nestjs, typescript, postgre, NodeJs [demo](https://primeconsultora.cl/).
+
+### CSM propio
+- **Tecnologías:** Nextjs, Nestjs, typescript, postgre, NodeJs [demo](https://www.teamprimedigital.cl/).
 
 ### Chat bot IA
 - **Tecnologías:** Next14, Tailwind, WebLLM, Node, jwt, Prisma, Axios [demo](https://natanael-chat-bot-ia.vercel.app/) o su versión + BD SQlite [demo](https://chatbotia-bd.vercel.app).
 
 ## Algunas LandingsPage a medida de empresas
--Minimalista Moderno [demo](https://hyn-arquitectura-y-construccion.pages.dev/).
--Moderno Aestetic [demo](https://seguros-edificio-alcazar.pages.dev/).
+-Moderno Aestetic [demo](https://seguros-manukian.cl/).
 -LightNight Moderno [demo](https://primeoffices.cl/).
--Aburrido Moderno [demo](https://primeconsultora.cl/).
 -Aburrido Moderno [demo](https://www.maestranzalosangeles.cl/).
 
 ### Experiencia
