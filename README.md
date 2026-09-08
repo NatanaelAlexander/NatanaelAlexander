@@ -10,7 +10,7 @@ Ecosistema JavaScript y TypeScript, desarrollando aplicaciones modernas con Next
 Además del desarrollo de software, suelo involucrarme en el diseño de bases de datos, definición de requerimientos, despliegue de infraestructura,  optimización de procesos de desarrollo y testing.
 
 <br>
-📦 **Mi librería Frontend, compatible con cualquier framework o sin framework:** [Lorea El Ipsum](https://www.npmjs.com/package/lorea-el-ipsum)
+📦 **Mi librería Frontend, compatible con cualquier framework o sin framework:** ![Lorea El Ipsum](https://www.npmjs.com/package/lorea-el-ipsum)
 <br>
 
 ## Front Stack:
